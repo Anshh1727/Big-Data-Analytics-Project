@@ -97,6 +97,6 @@ Actual Tableau dashboard previews:
 
 ## Reproducibility and handover
 
-Start at [setup and Tableau guide](docs/SETUP_AND_TABLEAU.md). Install R dependencies into the local `r_lib/` with `Rscript scripts/install_r_packages.R`; configure PostgreSQL via environment variables or `.env` kept local; run `scripts/run_all.sh`. Data source and modeling caveats are detailed in [data dictionary](data/data_dictionary.md). Original assignment requirements are preserved in [ASSIGNMENT_SPEC.md](ASSIGNMENT_SPEC.md); the replacement assignment prompt is preserved in `BA4301_Codex_README.md`.
+Start at [setup and Tableau guide](docs/SETUP_AND_TABLEAU.md). Install R dependencies into the local `r_lib/` with `Rscript scripts/install_r_packages.R`; configure PostgreSQL via environment variables or `.env` kept local; run `scripts/run_all.sh`. Data source and modeling caveats are detailed in [data dictionary](data/data_dictionary.md).
 
 Showcase drafts: [LinkedIn](showcase/linkedin_post.md) and [resume](showcase/resume_bullets.md). The assignment repository is [Anshh1727/Big-Data-Analytics-Project](https://github.com/Anshh1727/Big-Data-Analytics-Project). Tableau publication and LinkedIn posting remain separate student decisions.

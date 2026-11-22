@@ -18,3 +18,7 @@ __pycache__/
 *.twbr
 /bi_dashboard/*.twb
 /bi_dashboard/tableau_recovery_checkpoint.twbx
+
+# Assignment-only documents retained locally, excluded from GitHub
+/ASSIGNMENT_SPEC.md
+/SUBMISSION_CHECKLIST.md
