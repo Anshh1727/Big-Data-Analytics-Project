@@ -36,4 +36,4 @@ Save the workbook locally as `bi_dashboard/dashboard_file.twbx`. Capture genuine
 
 ## 4. GitHub and external showcase
 
-The target remote is `https://github.com/Anshh1727/Big-Data-Analytics-Project`. Git identity is configured project-locally and global Git settings were not changed. No push is authorized yet. Check diff/status and ignored files, verify GitHub authentication under Anshh1727, then request explicit approval before any push. LinkedIn posting/tagging and resume integration remain user actions; drafts are provided in `showcase/`.
+The project is pushed to `git@github.com:Anshh1727/Big-Data-Analytics-Project.git` on `main`. SSH routing and the remote are configured in this repository only; the existing project author identity was preserved, and global Git settings were not changed. LinkedIn posting/tagging and resume integration remain student actions; drafts are provided in `showcase/`.

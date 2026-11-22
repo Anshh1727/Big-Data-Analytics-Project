@@ -19,10 +19,10 @@ Status is **Done** only where an artifact or execution result was verified. This
 | Genuine dashboard screenshot evidence | **Done** | Actual Tableau exports: `assets/dashboard_previews/workforce_overview.png`, `attrition_performance.png`, and `compensation_equity.png`; Compensation Equity preview captures a single-department filter state. |
 | Verified Tableau Public URL | **Pending; not published** | `bi_dashboard/bi_web_link.txt` records the non-public status. Publish only with explicit student approval; record a real URL only. |
 | Executive README with findings and recommendations | **Done** | Root `README.md`, seven major sections, real metrics, actual R plot embeds and explicit Tableau status. |
-| GitHub documentation and LinkedIn/resume showcase drafts | **Done as drafts** | `showcase/linkedin_post.md`, `showcase/resume_bullets.md`; review figures and add the verified GitHub/BI URLs after approved publication. |
+| GitHub documentation and LinkedIn/resume showcase drafts | **Done as drafts** | `showcase/linkedin_post.md`, `showcase/resume_bullets.md`; the GitHub repository is live. Add a verified Tableau Public URL only if the workbook is later published. |
 | LinkedIn carousel, public post/tagging, resume integration | **Pending student action** | Carousel media is not generated; posting/tagging and adding the verified project to the resume require student review and action. |
-| Required repo filenames/structure and preserved assignment spec | **Done (review against rubric before submission)** | SQL/R/BI/assets/showcase directories present; original instructions preserved in `ASSIGNMENT_SPEC.md` and finalized prompt in `BA4301_Codex_README.md`. |
-| GitHub target/account authentication and push | **Approved; in progress** | SSH authentication verified specifically as Anshh1727; staged files reviewed to exclude raw/processed employee-level data, local workbooks and recovery files. Global Git settings unchanged. |
+| Required repo filenames/structure and preserved assignment spec | **Done (review against rubric before submission)** | SQL/R/BI/assets/showcase directories present; original instructions preserved in `ASSIGNMENT_SPEC.md`. |
+| GitHub target/account authentication and push | **Done** | SSH authentication verified as Anshh1727; curated assignment files pushed to `main`; raw/processed employee-level data, local workbooks, recovery files and internal planning notes were excluded. Global Git settings unchanged. |
 
 ## Verified environment and commands
 
@@ -36,4 +36,4 @@ Status is **Done** only where an artifact or execution result was verified. This
 
 1. Review all three dashboards and verify filter behavior/totals in Tableau.
 2. If public Tableau hosting is desired, confirm aggregate-only public exposure; obtain explicit approval before publishing and record only the verified URL.
-3. After the approved GitHub push, verify the repository branch and commit on GitHub.
+3. Review the pushed project against the rubric before submission.

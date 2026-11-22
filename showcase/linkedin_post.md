@@ -7,7 +7,7 @@ The SQL pipeline validated and normalized 100,000 records; R produced EDA and ev
 **Tableau status:** A local packaged workbook with three dashboards has been reopened and verified. It is not published and has no public URL yet.
 
 **Links:**
-- GitHub: https://github.com/Anshh1727/Big-Data-Analytics-Project (push pending approval)
+- GitHub: https://github.com/Anshh1727/Big-Data-Analytics-Project
 - Tableau Public: pending workbook and verified live URL
 
 Tag the instructor and college only after confirming their official profile URLs. Suggested hashtags: #HRAnalytics #SQL #RStats #Tableau #PeopleAnalytics #DataAnalytics.
