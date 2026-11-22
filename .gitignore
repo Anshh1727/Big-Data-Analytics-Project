@@ -1,0 +1,20 @@
+# User-provided source CSV and local raw employee-level analysis data
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+/r_lib/
+/Rhistory
+.RData
+.Rhistory
+.Rproj.user/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.py[cod]
+__pycache__/
+# Tableau lock/recovery files and editable workbooks with machine-local CSV paths.
+*.twbr
+/bi_dashboard/*.twb
+/bi_dashboard/tableau_recovery_checkpoint.twbx

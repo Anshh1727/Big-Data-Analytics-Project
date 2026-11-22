@@ -1,0 +1,100 @@
+SET
+Output format is aligned.
+Null display is "(null)".
+           check_name           | check_value 
+--------------------------------+-------------
+ distinct_employee_ids          |      100000
+ duplicate_employee_id_rows     |           0
+ invalid_age_or_out_of_range    |           0
+ invalid_hire_date              |           0
+ invalid_remote_frequency_range |           0
+ invalid_resigned_value         |           0
+ invalid_salary_or_negative     |           0
+ invalid_satisfaction_range     |           0
+ missing_department             |           0
+ missing_employee_id            |           0
+ missing_gender                 |           0
+ missing_hire_date              |           0
+ missing_job_title              |           0
+ source_rows                    |      100000
+(14 rows)
+
+        source_column        | missing_rows 
+-----------------------------+--------------
+ Age                         |            0
+ Department                  |            0
+ Education_Level             |            0
+ Employee_ID                 |            0
+ Employee_Satisfaction_Score |            0
+ Gender                      |            0
+ Hire_Date                   |            0
+ Job_Title                   |            0
+ Monthly_Salary              |            0
+ Overtime_Hours              |            0
+ Performance_Score           |            0
+ Projects_Handled            |            0
+ Promotions                  |            0
+ Remote_Work_Frequency       |            0
+ Resigned                    |            0
+ Sick_Days                   |            0
+ Team_Size                   |            0
+ Training_Hours              |            0
+ Work_Hours_Per_Week         |            0
+ Years_At_Company            |            0
+(20 rows)
+
+     check_name      | check_value 
+---------------------+-------------
+ clean_employee_rows |      100000
+(1 row)
+
+    check_name    | check_value 
+------------------+-------------
+ employees_loaded |      100000
+(1 row)
+
+     check_name      | check_value 
+---------------------+-------------
+ unique_employee_ids |      100000
+(1 row)
+
+        check_name         | check_value 
+---------------------------+-------------
+ missing_workforce_metrics |           0
+(1 row)
+
+        check_name        | check_value 
+--------------------------+-------------
+ missing_performance_rows |           0
+(1 row)
+
+        check_name         | check_value 
+---------------------------+-------------
+ missing_compensation_rows |           0
+(1 row)
+
+       check_name       | check_value 
+------------------------+-------------
+ ABT_row_reconciliation |           0
+(1 row)
+
+       check_name        | check_value 
+-------------------------+-------------
+ duplicate_ABT_employees |           0
+(1 row)
+
+            check_name            | check_value 
+----------------------------------+-------------
+ resignation_count_reconciliation |           0
+(1 row)
+
+         check_name          | check_value 
+-----------------------------+-------------
+ salary_total_reconciliation |        0.00
+(1 row)
+
+                check_name                | check_value 
+------------------------------------------+-------------
+ department_employee_count_reconciliation |           0
+(1 row)
+

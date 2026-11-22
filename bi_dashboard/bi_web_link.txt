@@ -1,0 +1,1 @@
+PENDING — The local packaged Tableau workbook is complete and has been reopened successfully, with all three dashboard tabs confirmed. It has not been published to Tableau Public. Record a real URL only after reviewing source redistribution terms and public data exposure, publishing with the student's explicit approval, and verifying the published page in a browser.
