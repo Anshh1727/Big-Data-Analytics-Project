@@ -1,1 +1,4 @@
-PENDING — The local packaged Tableau workbook is complete and has been reopened successfully, with all three dashboard tabs confirmed. It has not been published to Tableau Public. Record a real URL only after reviewing source redistribution terms and public data exposure, publishing with the student's explicit approval, and verifying the published page in a browser.
+PUBLISHED — HR Analytics – Workforce, Attrition & Compensation
+Tableau Public URL: https://public.tableau.com/app/profile/anshu.lihitkar/viz/HRAnalyticsWorkforceAttritionCompensation/CompensationEquity
+
+The student supplied this URL after publishing. The public page was visible in the student's browser, and the student confirmed that sheet tabs are now visible. The URL opens on Compensation Equity; use the workbook tabs to navigate the dashboards. The source is an instructor-approved synthetic dataset; workbook extracts are aggregate-only.

@@ -32,7 +32,7 @@ Or run all stages using `scripts/run_all.sh` with PostgreSQL environment configu
 
 Verified installation: Tableau Public (Apple silicon), version 2026.3.1, at `/Applications/Tableau Public (Apple silicon).app`. Use only aggregate CSVs under `data/processed/`. Never connect `employee_abt.csv`, `salary_rank_local.csv`, or `attrition_predictions_local.csv`. The exact dashboard build sequence is in [tableau_setup_guide.md](tableau_setup_guide.md), and field formulas/validation are in `../bi_dashboard/calculations.md`.
 
-Save the workbook locally as `bi_dashboard/dashboard_file.twbx`. Capture genuine screenshots in `assets/dashboard_previews/`. A Tableau Public upload is publicly visible; confirm source licensing and review all data sources, filters, tooltips and underlying data before publishing. Do not upload sensitive employee-level records. After publishing, verify the public link in a browser and update `bi_dashboard/bi_web_link.txt`.
+The packaged workbook is saved at `bi_dashboard/dashboard_file.twbx` and published at [Tableau Public](https://public.tableau.com/app/profile/anshu.lihitkar/viz/HRAnalyticsWorkforceAttritionCompensation/CompensationEquity). Its extracts contain aggregate summaries, not employee-level rows. The student confirmed all three dashboard tabs are visible. The shared URL opens on Compensation Equity; select **(All)** in Department Name to view every department. Genuine screenshots are in `assets/dashboard_previews/`.
 
 ## 4. GitHub and external showcase
 
